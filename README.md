@@ -4,15 +4,15 @@
 
 Maven嘅JavaWeb
 
-该系统开发环境是基于： Eclipse:2020-06 (4.16.0)，
+该系统开发环境是基于： Eclipse 2020-06 (4.16.0)，
 
-Jdk : 1.8版本
+jdk : 1.8版本
 
 Mysql :
 
 Web前端基于：struts 6.0
 
-Web后端是基于：Spring, struts 6.0, Mybatis
+Web后端是基于：Spring, Struts 6.0, Hibernate
 
 tomcat : apache-tomcat-9.0.65-windows-x64
 
